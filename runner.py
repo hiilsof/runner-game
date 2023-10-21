@@ -10,12 +10,12 @@ pygame.display.set_caption('Runner')
 
 #controlling the framerate
 clock = pygame.time.Clock()
-test_font = pygame.font.Font('font/Pixeltype.ttf', 50)
+test_font = pygame.font.Font('font/pixeltype.ttf', 100)
 
-sky_surface = pygame.image.load('graphics/Sky.png').convert()
+sky_surface = pygame.image.load('graphics/night-sky.png').convert()
 ground_surface = pygame.image.load('graphics/ground.png').convert()
 
-score_surf = test_font.render('My game', False, (64,64,64))
+score_surf = test_font.render('Runner', False, (64,64,64))
 score_rect = score_surf.get_rect(center = (400, 50))
 
 snail_surf = pygame.image.load('graphics/snail/snail1.png').convert_alpha()
