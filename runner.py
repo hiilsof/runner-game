@@ -2,7 +2,7 @@
 import pygame
 from sys import exit
 
-#base Game with no scoring
+#base Game with no scoring (checkpoint 1)
 
 #initializing pygame
 pygame.init()
