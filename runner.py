@@ -2,6 +2,8 @@
 import pygame
 from sys import exit
 
+#base Game with no scoring
+
 #initializing pygame
 pygame.init()
 #creating display surface
