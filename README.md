@@ -5,7 +5,7 @@ Work in Progress...
 creating a simple runner game
 with pygame
 
-includea
+includes
 audio files
 font
 picture files
