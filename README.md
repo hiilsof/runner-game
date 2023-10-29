@@ -1,7 +1,7 @@
 # runner-game v1.0
 
 ZIP FILE VERSION
-- Download the zip file
+- Download runner-game.zip
 - extract the zip file
 - open runner.exe
 
