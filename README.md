@@ -1,13 +1,10 @@
-# runner-game
+# runner-game v1.0
 
-Work in Progress...
+ZIP FILE VERSION
+- Download the zip file
+- extract the zip file
+- open runner.exe
 
-creating a simple runner game
-with pygame
+Source Code:
+- runner.py
 
-includes
-audio files
-font
-picture files
-python code
-and executable program
