@@ -14,6 +14,6 @@ A runner game made with pygame. Integrated parallax background, endless scroll e
 - You can run the source code directly by downloading the whole directory zip, extract it and and run runner.py with python.
 - Though, downloading runner-game.zip, extracting it and opening runner.exe would be enough.  
 
-To implement:
+# To implement:
 - browser based version
 - link to web version portfolio website
