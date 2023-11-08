@@ -7,7 +7,7 @@ A runner game made with pygame. Integrated parallax background, endless scroll e
 - extract the zip file
 - open runner.exe
 
-SOURCE CODE:
+# SOURCE CODE:
 - runner.py
 
 Note:
