@@ -2,7 +2,7 @@
 
 A runner game made with pygame. Integrated parallax background, endless scroll effect, collisions and random enemy spawn to the code. Though fairly simple, I thoroughly enjoyed working on music composition as well as the art.
 
-ZIP FILE VERSION
+# ZIP FILE VERSION
 - Download runner-game.zip
 - extract the zip file
 - open runner.exe
