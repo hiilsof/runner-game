@@ -15,5 +15,5 @@ A runner game made with pygame. Integrated parallax background, endless scroll e
 - Though, downloading runner-game.zip, extracting it and opening runner.exe would be enough.  
 
 # To implement
-- browser based version
+- browser based version with pygame (maybe itch.io - currently in the works)
 - link to web version portfolio website
